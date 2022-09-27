@@ -5,8 +5,8 @@
 - main
   - yymmdd
     - yymmdd-남윤창
-    - 221004-윤득렬
-    - 221004-추호성
+    - yymmdd-윤득렬
+    - yymmdd-추호성
     
 ---
 ## schedule
