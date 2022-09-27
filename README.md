@@ -3,10 +3,10 @@
 ## rule
 
 - main
- - ㄴ yymmdd
-  - ㄴ yymmdd-남윤창
-  - ㄴ 221004-윤득렬
-  - ㄴ 221004-추호성
+  - yymmdd
+    - yymmdd-남윤창
+    - 221004-윤득렬
+    - 221004-추호성
     
 ---
 ## schedule
