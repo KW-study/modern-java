@@ -1,11 +1,12 @@
 # modern-java
 --- 
 ## rule
-main
-ㄴ yymmdd
-    ㄴ yymmdd-남윤창
-    ㄴ 221004-윤득렬
-    ㄴ 221004-추호성
+
+- main
+ - ㄴ yymmdd
+  - ㄴ yymmdd-남윤창
+  - ㄴ 221004-윤득렬
+  - ㄴ 221004-추호성
     
 ---
 ## schedule
